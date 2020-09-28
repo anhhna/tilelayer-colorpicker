@@ -20,17 +20,17 @@ var blue = color[2];
 
 ## Demo : display color under cursor
 
-+ <https://frogcat.github.io/leaflet-tilelayer-colorpicker/>
++ <https://anhhna.github.io/tilelayer-colorpicker/>
 
 ## Demo : display elevation under cursor using Mapbox Terrain-RGB
 
-+ <https://frogcat.github.io/leaflet-tilelayer-colorpicker/mapbox-terrain-rgb.html>
++ <https://anhhna.github.io/tilelayer-colorpicker/mapbox-terrain-rgb.html>
 
 See also : <https://www.mapbox.com/blog/terrain-rgb/>
 
 
 ## Demo : display elevation under cursor using GSI's DEM PNG Tile
 
-+ <https://frogcat.github.io/leaflet-tilelayer-colorpicker/elevation.html>
++ <https://anhhna.github.io/tilelayer-colorpicker/elevation.html>
 
 See also : <http://maps.gsi.go.jp/development/demtile.html>
